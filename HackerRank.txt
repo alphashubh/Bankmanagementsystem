@@ -1,0 +1,4 @@
+Category:Java
+Score:103
+Rank:49828
+QuestionAttempted:12
